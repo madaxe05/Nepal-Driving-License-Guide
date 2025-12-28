@@ -41,7 +41,7 @@ class Section {
       id: json['id'],
       title: json['title'],
       icon: json['icon'],
-      content: json['content'],
+      content: (json['content'] as String).replaceAll('\\n', '\n'),
     );
   }
 }
