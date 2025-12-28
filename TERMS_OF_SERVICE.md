@@ -184,7 +184,7 @@ Our failure to enforce any right or provision of these Terms shall not be deemed
 For questions about these Terms, please contact:
 
 **Developer**: Sohan Dhungel  
-**Email**: [Your Email Address]
+**Email**: dhungelsohan@gmail.com
 
 ## 20. Acknowledgment
 

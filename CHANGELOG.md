@@ -93,7 +93,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Feedback
 We welcome user feedback! Please report bugs or suggest features through:
 - GitHub Issues: [link to be added]
-- Email: [your email]
+- Email: dhungelsohan@gmail.com
 
 ---
 

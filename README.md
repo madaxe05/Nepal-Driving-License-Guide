@@ -52,7 +52,7 @@ A comprehensive Flutter mobile application designed to help Nepal citizens prepa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/nepal_driving_license_guide.git
+   git clone https://github.com/madaxe05/Nepal-Driving-License-Guide.git
    cd nepal_driving_license_guide
    ```
 
@@ -140,9 +140,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Sohan Dhungel - [Your Email/Contact]
+Sohan Dhungel - dhungelsohan@gmail.com
 
-Project Link: [https://github.com/yourusername/nepal_driving_license_guide](https://github.com/yourusername/nepal_driving_license_guide)
+Project Link: [https://github.com/madaxe05/Nepal-Driving-License-Guide](https://github.com/madaxe05/Nepal-Driving-License-Guide)
 
 ## 🙏 Acknowledgments
 
@@ -161,7 +161,7 @@ This app is for educational and informational purposes only. Always refer to off
 
 ## 🔄 Updates & Support
 
-For the latest updates, bug reports, or feature requests, please visit our [GitHub Issues](https://github.com/yourusername/nepal_driving_license_guide/issues) page.
+For the latest updates, bug reports, or feature requests, please visit our [GitHub Issues](https://github.com/madaxe05/Nepal-Driving-License-Guide/issues) page.
 
 ---
 

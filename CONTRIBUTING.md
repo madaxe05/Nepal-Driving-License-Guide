@@ -72,21 +72,16 @@ Documentation improvements are always welcome:
 
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/nepal_driving_license_guide.git
+   git clone https://github.com/madaxe05/Nepal-Driving-License-Guide.git
    cd nepal_driving_license_guide
    ```
 
-3. **Add upstream remote**:
-   ```bash
-   git remote add upstream https://github.com/ORIGINAL_OWNER/nepal_driving_license_guide.git
-   ```
-
-4. **Install dependencies**:
+3. **Install dependencies**:
    ```bash
    flutter pub get
    ```
 
-5. **Run the app**:
+4. **Run the app**:
    ```bash
    flutter run
    ```
@@ -331,7 +326,7 @@ Contributors will be recognized in:
 
 Feel free to:
 - Open an issue for clarification
-- Reach out via email: [your email]
+- Reach out via email: dhungelsohan@gmail.com
 - Start a discussion on GitHub
 
 ## Thank You! 🙏

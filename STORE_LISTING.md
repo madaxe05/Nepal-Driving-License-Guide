@@ -120,7 +120,7 @@ This app is for educational purposes. While we strive for accuracy, always verif
 
 **🆘 Support**
 
-Need help? Have suggestions? Contact us at [your email]
+Need help? Have suggestions? Contact us at dhungelsohan@gmail.com
 
 **Download now and ace your driving license exam! 🚗🏍️**
 
@@ -293,7 +293,7 @@ nepal,license,driving,exam,traffic,rules,bike,car,test,preparation,guide,offline
 
 **Developer Website**: [Your website if available]
 
-**Support Email**: [Your email address]
+**Support Email**: dhungelsohan@gmail.com
 
 **Privacy Policy URL**: 
 `https://yourwebsite.com/privacy-policy` or host the PRIVACY_POLICY.md file online

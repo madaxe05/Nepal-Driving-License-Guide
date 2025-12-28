@@ -93,7 +93,7 @@ This app complies with:
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-**Email**: [Your Email Address]  
+**Email**: dhungelsohan@gmail.com  
 **Developer**: Sohan Dhungel
 
 ## Consent

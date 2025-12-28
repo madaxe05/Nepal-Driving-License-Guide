@@ -242,7 +242,7 @@ We respect your privacy. This app is designed with privacy in mind:
 
 Your privacy is 100% protected. For the complete Privacy Policy, please visit our GitHub repository or contact us.
 
-Contact: [Your Email]''';
+Contact: dhungelsohan@gmail.com''';
 
       case 'Terms of Service':
         return '''TERMS OF SERVICE
@@ -288,7 +288,7 @@ CHANGES
 
 For complete Terms of Service, visit our GitHub repository.
 
-Contact: [Your Email]''';
+Contact: dhungelsohan@gmail.com''';
 
       case 'Open Source':
         return '''MIT LICENSE
@@ -306,7 +306,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 CONTRIBUTING
 This is an open source project. Contributions are welcome!
 
-GitHub: github.com/yourusername/nepal_driving_license_guide
+GitHub: github.com/madaxe05/Nepal-Driving-License-Guide
 
 You can:
 • Report bugs
