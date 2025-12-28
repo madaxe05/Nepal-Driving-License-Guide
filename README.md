@@ -1,6 +1,12 @@
 # 🇳🇵 Nepal Driving License Guide
 
-A comprehensive Flutter mobile application designed to help Nepal citizens prepare for their driving license exams. This app provides complete information about license requirements, application processes, exam preparation, and traffic rules for both two-wheelers and four-wheelers.
+<p align="center">
+  <img src="assets/logo.png" alt="Nepal Driving License Guide Logo" width="200"/>
+</p>
+
+<p align="center">
+  <strong>A comprehensive Flutter mobile application designed to help Nepal citizens prepare for their driving license exams.</strong>
+</p>
 
 ## ✨ Features
 
